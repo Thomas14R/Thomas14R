@@ -8,7 +8,7 @@
   "education": "Master's degree in Computer Science",
   "interests": ["Project Management", "DevOps", "AI"],
   "passions": ["Aviation", "Cats", "Gaming"],
-  "languages": ["French", "English"]
+  "languages": ["French", "English", "Spanish (Learning)"]
 }
 ```
 
