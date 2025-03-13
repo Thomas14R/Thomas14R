@@ -7,7 +7,7 @@
   "location": "France",
   "education": "Master's degree in Computer Science",
   "interests": ["Project Management", "DevOps", "AI"],
-  "passions": ["Aviation", "Cats", "Gaming"],
+  "hobbies": ["Aviation", "Programming" "Gaming"],
   "languages": ["French", "English"]
 }
 ```
